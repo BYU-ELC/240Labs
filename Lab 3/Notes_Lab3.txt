@@ -1,0 +1,1 @@
+Didn't have any problem with this lab. Had to be careful not to burn LED's with the DC power supply as mentioned.

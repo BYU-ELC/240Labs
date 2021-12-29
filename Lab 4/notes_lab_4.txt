@@ -1,0 +1,7 @@
+To begin, I calculated that pulse width modulation cycles every 2ms... that means that for 1 volt average you need to pulse
+width modulate high 1/5 of the time. After calculating for the resistor and capacitor values, I slightly adjusted the
+time the simulated voltage was high to make sure the average sat right at 1V.
+
+This lab required a deeper understanding of multimeters than previous labs (for troubleshooting pwm and seeing the 1V +-0.1V
+end product. There isn't much help on this in the lab writeup. Not sure if there's a separate video or if this is explained in
+class.

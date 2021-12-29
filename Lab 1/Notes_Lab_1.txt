@@ -1,0 +1,2 @@
+On video testing is done by varying the time on and off, but in real life we're told to turn 2 pins on and off. Instructions aren't explicit about which ones
+so I chose 2 generic pins.

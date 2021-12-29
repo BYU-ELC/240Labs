@@ -1,0 +1,2 @@
+We never talk about whether or not the led's are supposed to be hooked up in parallel or series... should the model assume
+series or parallel? I have to hook the led's up in parallel, so I built a simulation in parallel and one in series. 
